@@ -1,0 +1,40 @@
+/* Form */
+button
+{
+	margin-left: 1rem;	
+}
+
+/* Table */
+table
+{
+	margin-top: 2rem;
+	width: 100%;
+	text-align: center;
+}
+th
+{
+	padding: 0.5rem 1rem;
+}
+td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table, th
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+img 
+{
+	height: 4.5rem;
+	width: 5rem;
+	border: 1px solid black;
+	margin: 1rem 0.5rem;
+}
+
+/* Footer */
+footer 
+{
+	margin-top: 2rem;
+}
